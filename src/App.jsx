@@ -1,8 +1,3 @@
-# ConnectiveNotes Version 2.3
-
-
-BACKUP TEMPLATE CODE:::::
-
 import React, { useCallback, useState, useEffect } from 'react';
 import ReactFlow, {
   MiniMap,
