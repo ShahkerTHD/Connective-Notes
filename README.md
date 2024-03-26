@@ -9,8 +9,10 @@ Connective Notes was a simple project where I wanted to try out React and also t
 - Open Source
 - Actually useful 
 
-
+---
 
 Currently their are +10000 users using Connective Notes on my private/local server in my area.
+
+If you have any updates or features you can create a pull request and I will review it.
 
 
